@@ -1,2 +1,22 @@
 *.exe
 **/.vscode/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Google Drive/
+Links/
+MicrosoftEdgeBackups/
+Music/
+OneDrive/
+Project/
+Saved Games/
+Searches/
+Videos/
+alura_space/
+cursoPy
+eclipse-workspace/
+imc_calculadora/
+index.html
+myapp/
