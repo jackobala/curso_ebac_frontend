@@ -1,0 +1,6 @@
+[user]
+	name = jackobala
+	email = jacksonoliver2009@gmail.com
+[core]
+	autocrlf = true
+	editor = Visual Studio Code
